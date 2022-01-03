@@ -1,0 +1,15 @@
+body{
+    background-image: url("29-294301_batman-superman-and-wonder-woman-movie.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cardbg{
+    background-color: black ;
+    color: goldenrod
+}
+/* input{
+    width: 23em;
+} */
